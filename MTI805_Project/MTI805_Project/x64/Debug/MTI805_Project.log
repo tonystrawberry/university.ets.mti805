@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  MTI805_Project.cpp
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(89): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(93): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(163): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(181): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(184): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(190): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(191): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(202): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_finalproject\mti805_project\mti805_project\mti805_project.cpp(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\Tony\Documents\GitHub\MTI805_FinalProject\MTI805_Project\x64\Debug\MTI805_Project.exe not found or not built by the last incremental link; performing full link
+  MTI805_Project.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_FinalProject\MTI805_Project\x64\Debug\MTI805_Project.exe
+  MTI805_Project.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_FinalProject\MTI805_Project\x64\Debug\MTI805_Project.pdb (Full PDB)

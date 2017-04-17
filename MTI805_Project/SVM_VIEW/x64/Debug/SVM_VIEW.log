@@ -1,0 +1,9 @@
+﻿  SVM_VIEW.cpp
+c:\users\tony\documents\github\mti805_project\mti805_project\svm_view\svm_view.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm_view\svm_view.cpp(131): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm_view\svm_view.cpp(149): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm_view\svm_view.cpp(150): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm_view\svm_view.cpp(214): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm_view\svm_view.cpp(215): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SVM_VIEW.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\SVM_VIEW.exe
+  SVM_VIEW.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\SVM_VIEW.pdb (Full PDB)

@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\tony\documents\github\mti805_project\mti805_project\svm\main.cpp(153): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm\main.cpp(154): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm\main.cpp(169): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm\main.cpp(170): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm\main.cpp(185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm\main.cpp(186): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm\main.cpp(201): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\svm\main.cpp(202): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SVM.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\SVM.exe
+  SVM.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\SVM.pdb (Full PDB)

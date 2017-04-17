@@ -1,0 +1,15 @@
+﻿  KMEANS_PLAYERS.cpp
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(91): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(104): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(118): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(167): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(168): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(183): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(184): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(199): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(200): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(215): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\kmeans_players\kmeans_players.cpp(216): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  KMEANS_PLAYERS.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\KMEANS_PLAYERS.exe
+  KMEANS_PLAYERS.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\KMEANS_PLAYERS.pdb (Full PDB)

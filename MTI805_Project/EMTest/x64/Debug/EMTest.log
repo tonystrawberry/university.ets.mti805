@@ -1,0 +1,9 @@
+﻿  EMTest.cpp
+c:\users\tony\documents\github\mti805_project\mti805_project\emtest\emtest.cpp(80): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\emtest\emtest.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\emtest\emtest.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\emtest\emtest.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\emtest\emtest.cpp(188): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tony\documents\github\mti805_project\mti805_project\emtest\emtest.cpp(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  EMTest.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\EMTest.exe
+  EMTest.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\EMTest.pdb (Full PDB)

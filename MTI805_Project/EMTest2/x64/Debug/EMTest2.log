@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (EMTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  EMTest2.cpp
+  EMTest2.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\EMTest2.exe
+  EMTest2.vcxproj -> C:\Users\Tony\Documents\GitHub\MTI805_Project\MTI805_Project\x64\Debug\EMTest2.pdb (Full PDB)
