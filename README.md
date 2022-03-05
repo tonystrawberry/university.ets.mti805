@@ -1,4 +1,4 @@
-# ETS MTI805 - Final Project
+# ETS MTI805 - Soccer Player Detection - Final Project
 
 1. Download ZIP
 2. Extract the contents of the ZIP file
