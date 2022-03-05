@@ -1,4 +1,4 @@
-﻿# ETS MTI805 -  Final Project
+# ETS MTI805 - Final Project
 
 1. Download ZIP
 2. Extract the contents of the ZIP file
@@ -8,7 +8,7 @@
 6. Set Mode Debug x64
 7. Run
 
-## Libraries used.
+## Libraries used
 
 * kernel32.lib
 * user32.lib
