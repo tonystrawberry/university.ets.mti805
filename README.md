@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo">
-    <img src="https://www.iconpacks.net/icons/1/free-soccer-icon-459-thumb.png" width="60" />
-  </a>
+  <img src="https://www.iconpacks.net/icons/1/free-soccer-icon-459-thumb.png" width="60" />
 </p>
 <h1 align="center">
   ⚽️ ETS MTI805 - Soccer Player Detection
