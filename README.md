@@ -1,4 +1,19 @@
-# ETS MTI805 - Soccer Player Detection - Final Project
+<p align="center">
+  <a href="https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljmdocaodafmlhcfciicabo">
+    <img src="https://www.iconpacks.net/icons/1/free-soccer-icon-459-thumb.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  ⚽️ ETS MTI805 - Soccer Player Detection
+</h1>
+
+- 👨🏻‍💻 Project done as part of my Master's degree course on Computer Vision at the Ecole de Technologie Superieure de Montreal
+
+## 📚 Resources
+<a href="https://www.researchgate.net/publication/222429216_Automatic_player_detection_labeling_and_tracking_in_broadcast_soccer_video
+" target="_blank">Automatic player detection, labeling and tracking in broadcast soccer video</a>
+
+## 🛠 Setup
 
 1. Download ZIP
 2. Extract the contents of the ZIP file
@@ -8,7 +23,7 @@
 6. Set Mode Debug x64
 7. Run
 
-## Libraries used
+## 📋 Libraries used
 
 * kernel32.lib
 * user32.lib
